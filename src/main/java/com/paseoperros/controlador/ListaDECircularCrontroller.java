@@ -25,6 +25,7 @@ public class ListaDECircularCrontroller implements Serializable {
     private Perro perroMostrarDEC;
     private NodoDE tempDEC;
     private String sentencia;
+    private String apellido;
 
     /**
      * Creates a new instance of ListaDECircularCrontroller
